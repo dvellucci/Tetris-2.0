@@ -7,8 +7,8 @@
 #define FRAMES_PER_SECOND 30
 #define FRAME_RATE        1000/FRAMES_PER_SECOND
 
-#define GAME_AREA_LEFT   58
-#define GAME_AREA_RIGHT  280
+#define GAME_AREA_LEFT   53
+#define GAME_AREA_RIGHT  251
 #define GAME_AREA_BOTTOM 298
 
 #define NUM_LEVELS       5    // number of levels in the game

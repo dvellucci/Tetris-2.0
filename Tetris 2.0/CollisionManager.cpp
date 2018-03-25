@@ -171,7 +171,7 @@ bool CollisionManager::CheckRotationCollisions(cBlock* block, vector<cSquare*> o
 		}
 	}
 
-	delete temp_array;
+	 
 	return false;
 }
 
